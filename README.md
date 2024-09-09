@@ -1,3 +1,4 @@
+# Thanks to IMXNOOBX for the base code
 # 😢 Message Signature
 This is a plugin for vencord that adds signatures for your messages, you wont find it in the plugins directory as the request has been denied before i even started working on it, so you will have to install it manually.
 
